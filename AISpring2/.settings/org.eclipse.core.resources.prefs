@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/views/Crawler.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/LSTM_Make_model.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/Make_model.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/Mecab.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/Preprocessing.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/RNN_Make_model.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/Retest.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/fileupload.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/main.py=utf-8
+encoding//src/main/webapp/WEB-INF/views/test.py=utf-8
