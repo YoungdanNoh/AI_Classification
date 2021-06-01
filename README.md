@@ -30,7 +30,3 @@ Version of this program
 
 > ## RNN, LSTM, BiLSTM
 >> 세 가지 모델의 텍스트 카테고리 분류 성능을 비교한다.
-
-<img width="771" alt="스크린샷 2021-05-26 오전 1 03 57" src="https://user-images.githubusercontent.com/38938145/119530835-57d5d700-bdbe-11eb-9502-36edc3c225cf.png">
-
-<img width="374" alt="스크린샷 2021-05-26 오전 1 04 13" src="https://user-images.githubusercontent.com/38938145/119530928-70de8800-bdbe-11eb-9a52-c27763274a94.png">
